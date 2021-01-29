@@ -1,0 +1,11 @@
+name,race,birth,sex,zip,status,problem
+A,asian,09/27/64,female,94139,divorced,P1
+B,asian,09/30/64,female,94139,divorced,P2
+C,asian,04/18/64,male,94139,married,P3
+D,asian,04/15/64,male,94139,married,P3
+E,black,03/13/63,male,94138,married,P3
+F,black,03/18/63,male,94138,married,P3
+G,black,09/13/64,female,94141,married,P3
+H,black,09/07/64,female,94141,married,P3
+I,white,05/14/61,male,94138,single,P4
+J,white,05/08/61,male,94138,single,P4
